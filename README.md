@@ -2,10 +2,10 @@
 
 ## Sumary
 
-1. [Instalation](##Instalation)
-2. [About](##About)
-3. [Instructions](##Instructions)
-4. [Usage](##Usage)
+1. [Instalation](#Instalation)
+2. [About](#About)
+3. [Instructions](#Instructions)
+4. [Usage](#Usage)
 
 ## About
 
