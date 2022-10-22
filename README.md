@@ -1,6 +1,6 @@
 # update-go
 
-# Sumary
+## Sumary
 
 1. [Instalation](##Instalation)
 2. [About](##About)
