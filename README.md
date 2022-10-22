@@ -23,8 +23,8 @@ $ git clone https://github.com/marcos-dev88/update-go
 
 Theres 2 flags that you can use in this project:
 
-* **-v** -> It defines the version like: 1.19 **(Required)**
-* **-p** -> It defines the path of your download. **(Not required, but without this flag it will get the go path from your $GOROOT and $GOPATH, then, make sure that you have it defined in your .zshrc or .bashrc)** 
+* **-v** -> Defines the version like: 1.19 **(Required)**
+* **-p** -> Defines the path of your download. **(Not required, but without this flag it will get the go path from your $GOROOT and $GOPATH, then, make sure that you have it defined in your .zshrc or .bashrc)** 
 
 ## Usage
 
